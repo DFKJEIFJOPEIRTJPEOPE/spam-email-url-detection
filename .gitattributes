@@ -1,0 +1,7 @@
+# Default behavior
+docs/**/*.html linguist-vendored
+*.yml linguist-detectable=false
+**/*.js linguist-detectable
+*.md linguist-documentation
+*.js linguist-detectable
+go.sum linguist-generated
